@@ -113,7 +113,7 @@ export function LoginForm({ onLogin }: LoginFormProps) {
             </div>
           </div>
           <CardTitle className="text-2xl font-bold text-gray-900">ACE STUDIOS</CardTitle>
-          <CardDescription>Point of Sale System</CardDescription>
+          <CardDescription>Point os Sale System</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">

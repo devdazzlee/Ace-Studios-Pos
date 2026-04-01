@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "ACE STUDIOS POS System",
-  description: "Professional Point of Sale System",
+  description: "Professional Point os Sale System",
   generator: 'v0.dev',
   manifest: '/manifest.json',
   appleWebApp: {
