@@ -58,6 +58,7 @@ app.use((0, cors_1.default)({
         if (!origin)
             return callback(null, true);
         const allowedOrigins = [
+            'https://ace-studios-pos.vercel.app',
             'https://pos.manpasandstore.com',
             'https://manpasand-pos-t623.vercel.app',
             'https://manpasand-pos-beta.vercel.app',
